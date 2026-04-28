@@ -8,7 +8,7 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://realtastegroupbh.com/branches/" />
+	<link rel="canonical" href="https://realtastegroupbh.com/branches" />
 	<link rel="amphtml" href="https://web-prosensa76.pages.dev/" />
 	<link rel="alternate" hreflang="id-id" href="https://web-prosensa76.pages.dev/"/>
    <link rel="alternate" hreflang="id" href="https://web-prosensa76.pages.dev/"/>
@@ -25,7 +25,7 @@
 	<title>PROSENSA76: Link Situs Slot 777 Gacor Resmi Berlisensi Deposit Cuman 1000</title>
 	<meta name="description" content="Prosensa76 adalah platfrom resmi dari slot 888 online yang di minati banyak orang. Kini tak perlu modal besar untuk memainkan nyah cukup dengan deposti 1k saja. Anda bebas untuk memaikan nyah." />
 	<meta property="og:site_name" content="SLOT888" />
-	<meta property="og:url" content="https://realtastegroupbh.com/branches/" />
+	<meta property="og:url" content="https://realtastegroupbh.com/branches" />
 	<meta property="og:title" content="PROSENSA76: Link Situs Slot 777 Gacor Resmi Berlisensi Deposit Cuman 1000" />
 	<meta property="og:type" content="product" />
 	<meta property="og:description" content="Prosensa76 adalah platfrom resmi dari slot 888 online yang di minati banyak orang. Kini tak perlu modal besar untuk memainkan nyah cukup dengan deposti 1k saja. Anda bebas untuk memaikan nyah." />
@@ -132,7 +132,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://realtastegroupbh.com/branches/",
+  "url": "https://realtastegroupbh.com/branches",
   "name": "PROSENSA76: Link Situs Slot 777 Gacor Resmi Berlisensi Deposit Cuman 1000",
   "sku": "3215878451",
   "description": "Prosensa76 adalah platfrom resmi dari slot 888 online yang di minati banyak orang. Kini tak perlu modal besar untuk memainkan nyah cukup dengan deposti 1k saja. Anda bebas untuk memaikan nyah.",
@@ -231,55 +231,55 @@
       "@type": "ListItem",
       "position": 1,
       "name": "SLOT888",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT GACOR",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT ONLINE",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT88",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS SLOT GACOR",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SLOT GACOR HARI INI",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SLOT888 SLOT88",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SLOT888 88 SLOT",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "PROSENSA76: Link Situs Slot 777 Gacor Resmi Berlisensi Deposit Cuman 1000",
-      "item": "https://realtastegroupbh.com/branches/"
+      "item": "https://realtastegroupbh.com/branches"
     }
   ]
 }
@@ -293,27 +293,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://realtastegroupbh.com/branches/#org",
+      "@id": "https://realtastegroupbh.com/branches#org",
       "name": "SLOT888",
-      "url": "https://realtastegroupbh.com/branches/",
+      "url": "https://realtastegroupbh.com/branches",
       "logo": "https://ik.imagekit.io/ctoqfgj0a/slotgacor76.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://realtastegroupbh.com/branches/#website",
-      "url": "https://realtastegroupbh.com/branches/",
+      "@id": "https://realtastegroupbh.com/branches#website",
+      "url": "https://realtastegroupbh.com/branches",
       "name": "SLOT888",
-      "publisher": { "@id": "https://realtastegroupbh.com/branches/#org" },
+      "publisher": { "@id": "https://realtastegroupbh.com/branches#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://realtastegroupbh.com/branches/?s={search_term_string}",
+        "target": "https://realtastegroupbh.com/branches?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://realtastegroupbh.com/branches/#app",
+      "@id": "https://realtastegroupbh.com/branches#app",
       "name": "SLOT888",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1288,7 +1288,7 @@
                </script>
                <div class="header__heading">
                   <div class="brand--logo">
-                     <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
+                     <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                            <img
                               src="https://prosensa76.sbs/storage/logo/1771418667_LOG1.png"
@@ -1563,7 +1563,7 @@
                                     id="headerCss HeaderMenu-mac"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SLOT888</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SLOT888</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1586,7 +1586,7 @@
                                     id="headerCss HeaderMenu-ipad"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                   <p><a href="https://realtastegroupbh.com/branches/">SLOT888 SLOT88</a></p>
+                                   <p><a href="https://realtastegroupbh.com/branches">SLOT888 SLOT88</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1609,7 +1609,7 @@
                                     id="headerCss HeaderMenu-iphone"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SLOT GACOR</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SLOT GACOR</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1632,7 +1632,7 @@
                                     id="headerCss HeaderMenu-watch"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SITUS SLOT</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SITUS SLOT</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1655,7 +1655,7 @@
                                     id="headerCss HeaderMenu-music"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SLOT88</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SLOT88</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1678,7 +1678,7 @@
                                     id="headerCss HeaderMenu-tv-home"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                   <p><a href="https://realtastegroupbh.com/branches/">SLOT GACOR 88</a></p>
+                                   <p><a href="https://realtastegroupbh.com/branches">SLOT GACOR 88</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.V354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1701,7 +1701,7 @@
                                     id="headerCss HeaderMenu-accessories"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SLOT ONLINE</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SLOT ONLINE</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1724,7 +1724,7 @@
                                     id="headerCss HeaderMenu-services"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SITUS SLOT GACOR</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SITUS SLOT GACOR</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1747,7 +1747,7 @@
                                     id="headerCss HeaderMenu-offers"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://realtastegroupbh.com/branches/">SLOT INDONESIA</a></p>
+                                    <p><a href="https://realtastegroupbh.com/branches">SLOT INDONESIA</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1794,7 +1794,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SLOT888",
-  "url": "https://realtastegroupbh.com/branches/",
+  "url": "https://realtastegroupbh.com/branches",
   "sameAs": [
     "https://www.facebook.com/SLOT888",
     "https://www.instagram.com/SLOT888/",
@@ -1852,7 +1852,7 @@
          <div class="nav-left-arrow"></div>
          <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
             <div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1884,7 +1884,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1916,7 +1916,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1948,7 +1948,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1980,7 +1980,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2009,7 +2009,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2041,7 +2041,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2073,7 +2073,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2105,7 +2105,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item end_lob_text">
-               <a href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
+               <a href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
                   <span class="end_title_anchor">
                      View All iPhone
                      <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3050,7 +3050,7 @@
                                                                <li>Fitur Terbaik Untuk Mempermudah Meraih Maxwin</li>
                                                             </ul>
                                                          </div>
-                                                         <a class="apple-care-modal__cta" href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer">
+                                                         <a class="apple-care-modal__cta" href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer">
                                                          <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ SLOT888</span>
                                                          <i class="fa-solid fa-angle-right billboard_icon"></i>
                                                          </a>
@@ -4456,7 +4456,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "PROSENSA76: Link Situs Slot 777 Gacor Resmi Berlisensi Deposit Cuman 1000",
-  "url": "https://realtastegroupbh.com/branches/",
+  "url": "https://realtastegroupbh.com/branches",
   "image": [
     "https://ik.imagekit.io/ctoqfgj0a/slotgacor76.jpg?v=1757450054&width=823"
   ],
@@ -4474,7 +4474,7 @@
       "availability": "https://schema.org/OutOfStock",
       "price": 300.00,
       "priceCurrency": "SGD",
-      "url": "https://realtastegroupbh.com/branches/"
+      "url": "https://realtastegroupbh.com/branches"
     }
   ]
 }
@@ -5453,7 +5453,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT RESMI INDONESIA
@@ -5461,7 +5461,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT MAXWIN
@@ -5469,7 +5469,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT888 SLOT 88
@@ -5477,7 +5477,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT ONLINE
@@ -5485,7 +5485,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT88
@@ -5493,7 +5493,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT GACOR
@@ -5501,7 +5501,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT888 88
@@ -5509,7 +5509,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank"
+                              href="https://realtastegroupbh.com/branches" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LINK RESMI
@@ -5839,7 +5839,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot
@@ -5847,7 +5847,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT888
@@ -5878,7 +5878,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot88
@@ -5910,7 +5910,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://realtastegroupbh.com/branches/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://realtastegroupbh.com/branches" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Online
@@ -6196,7 +6196,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                            </div>
                            <div class="copyrightCss footer__copyright caption">
                               <span class="copyright__content"
-                                 >&copy; 2025, <a href="https://realtastegroupbh.com/branches/" target="_blank" title="">SLOT888</a></span>
+                                 >&copy; 2025, <a href="https://realtastegroupbh.com/branches" target="_blank" title="">SLOT888</a></span>
                               <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></span>
                            </div>
                         </div>
